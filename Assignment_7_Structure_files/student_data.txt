@@ -1,0 +1,8 @@
+Student roll no. : 1
+Student name : A
+Student dept : CSE
+Student course : BE
+Student joiningYear : 2021
+Marks of Student : [95, 75, 85, 90, 70, 80]
+Average : 82.50
+

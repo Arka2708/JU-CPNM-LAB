@@ -1,0 +1,24 @@
+
+
+Input : 1234 
+Larger number : 4321 
+Smaller number : 1234 
+Difference : 3087
+
+
+Input : 3087 
+Larger number : 8730 
+Smaller number : 378 
+Difference : 8352
+
+
+Input : 8352 
+Larger number : 8532 
+Smaller number : 2358 
+Difference : 6174
+
+
+Input : 6174 
+Larger number : 7641 
+Smaller number : 1467 
+Difference : 6174
